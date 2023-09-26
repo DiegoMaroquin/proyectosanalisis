@@ -1,0 +1,20 @@
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\linri\Desktop\Proyecto ingenieria de software - copia\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
+C:\Users\Dell\source\repos\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\Dell\source\repos\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\Dell\source\repos\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\Dell\source\repos\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
+C:\Users\Dell\source\repos\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\bin\Debug\System.Data.Odbc.dll
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\bin\Debug\System.Data.Odbc.xml
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CopyComplete
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\DELL\Desktop\labo analisis\CONSULTAS INTE\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
